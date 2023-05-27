@@ -18,7 +18,7 @@ const Modal = () => {
       {/* isOpenがtrueの場合、モーダルを表示する */}
       {isOpen && (
         <div className="modal">
-          <div className="modal-content">
+          <div className="modalContent">
             <h2>モーダルウィンドウ</h2>
             <span onClick={toggleModal} className="modalClose">
               &times;

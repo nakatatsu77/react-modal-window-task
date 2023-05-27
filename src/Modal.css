@@ -10,7 +10,7 @@
   align-items: center;
 }
 
-.modal-content {
+.modalContent {
   background-color: #fff;
   margin: 15px auto;
   width: 50%;
@@ -18,11 +18,6 @@
   box-shadow: 0 2px 7px rgb(75, 75, 75);
   display: flex;
   justify-content: space-between;
-}
-
-.modal-content {
-  background-color: white;
-  padding: 20px;
 }
 
 .modalClose {
